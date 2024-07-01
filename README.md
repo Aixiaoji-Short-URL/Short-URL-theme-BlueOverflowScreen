@@ -6,6 +6,11 @@
 - 这个是Short-URL（["https://github.com/Aixiaoji-Short-URL/Short-URL"](https://github.com/Aixiaoji-Short-URL/Short-URL)）项目的主题
 - This is the theme of the Short-URL (["https://github.com/Aixiaoji-Short-URL/Short-URL"](https://github.com/Aixiaoji-Short-URL/Short-URL)) project
 
+### ThemeDemo/主题展示
+- (For demo display only, no interaction. Text is LanguagePack ID)/（仅做Demo展示，无交互。文本为LanguagePack ID）
+- [https://aixiaoji-short-url.github.io/Short-URL-theme-BlueOverflowScreen/index-no-php](https://aixiaoji-short-url.github.io/Short-URL-theme-BlueOverflowScreen/index-no-php)
+- [https://aixiaoji-short-url.github.io/Short-URL-theme-BlueOverflowScreen/i/ui](https://aixiaoji-short-url.github.io/Short-URL-theme-BlueOverflowScreen/i/ui)
+
 ### Screenshot/截图
 - None/暂无
 
